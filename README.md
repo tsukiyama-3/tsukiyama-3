@@ -4,10 +4,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsukiyama-3&theme=dracula" />
 </a>
 
-<a href="https://labs.play-with-docker.com/" target="_blank" rel="noopener noreferrer">Play with Docker</a>
-
-[Play with Docker](https://labs.play-with-docker.com/) 
-
 
 <!--
 **tsukiyama-3/tsukiyama-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
