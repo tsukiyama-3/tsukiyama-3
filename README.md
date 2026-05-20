@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsukiyama-3&theme=dracula" />
-</a>
+[![tsukiyama-3 Nuxter profile](https://nuxters.nuxt.com/_og/r/tsukiyama-3.png)](https://nuxters.nuxt.com/tsukiyama-3)
 
 
 <!--
